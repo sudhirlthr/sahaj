@@ -1,0 +1,9 @@
+{
+  "instruments": {
+      "AC": "10",
+      "LIGHT": "5"
+    },
+  "number_of_foors": "2",
+  "main_corridor_multiplier": "15",
+  "sub_corridor_multiplier": "10"
+}
